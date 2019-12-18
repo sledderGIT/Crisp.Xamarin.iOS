@@ -1,6 +1,6 @@
 using UIKit;
 
-namespace CTeleport.Mobile.iOS.Extensions
+namespace iOS.Extensions
 {
     public static class LayoutExtensions
     {
