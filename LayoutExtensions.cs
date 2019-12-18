@@ -1,6 +1,6 @@
 using UIKit;
 
-namespace iOS.Extensions
+namespace Extensions
 {
     public static class LayoutExtensions
     {
