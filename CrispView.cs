@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using CoreGraphics;
-using iOS.Extensions;
+using Extensions;
 using Foundation;
 using UIKit;
 using WebKit;
