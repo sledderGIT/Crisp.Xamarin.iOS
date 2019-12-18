@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using CoreGraphics;
-using CTeleport.Mobile.iOS.Extensions;
+using iOS.Extensions;
 using Foundation;
 using UIKit;
 using WebKit;
